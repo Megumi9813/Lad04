@@ -1,0 +1,12 @@
+body {
+    background-color: rgba(14, 236, 240, 0.8);
+    color: yellow;
+}
+
+.header {
+    color: #f00e46;
+}
+
+a:link ,a:visited{
+    color: rgb(240, 70, 14);
+}
